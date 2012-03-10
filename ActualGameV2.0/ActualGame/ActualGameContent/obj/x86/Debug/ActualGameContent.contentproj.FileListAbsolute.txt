@@ -1,0 +1,2 @@
+C:\Users\Hooded Eskimo\GameProject\ActualGame\ActualGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Hooded Eskimo\GameProject\ActualGameV2.0\ActualGame\ActualGameContent\obj\x86\Debug\ResolveAssemblyReference.cache
