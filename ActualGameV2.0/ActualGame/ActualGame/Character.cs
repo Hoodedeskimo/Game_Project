@@ -22,7 +22,7 @@ namespace ActualGame
         int frameCount = 0;
         int frameCountDelay = 4;
         int loopCount = 0;
-        int upVelocity = 3;
+        int upVelocity = 5;
         int downVelocity = 2;
 
         enum PlayerState
